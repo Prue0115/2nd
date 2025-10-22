@@ -4,4 +4,4 @@
 
 ## Download
 ---
-[다운로드](https://drive.google.com/file/d/1WeYsBJ3N3JcjBtx2gddFJ02MPYz1ZRFJ/view?usp=sharing)
+[다운로드](https://drive.google.com/drive/folders/19dyJAXBxydDjZ-RyBhqpHbv3Num4uvqF?usp=sharing)
