@@ -6,7 +6,7 @@
 Cara memasang fail .pbo
 Letakkan fail .pbo (jangan nyahmampatkan) ke dalam folder berikut:
 PC ini > C: > Pengguna > (nama pengguna anda) > AppData > Local > Arma 3 > MPMissionsCache
-⚠️ .pbo 파일을 압축 해제하거나 열지 마세요
+⚠️ Jangan nyahmampatkan atau buka fail .pbo
 
 How to Apply a .pbo File
 Place the .pbo file (do not extract it) in the following folder:
