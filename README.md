@@ -20,4 +20,4 @@ This PC > C: Drive > Users > (your username) > AppData > Local > Arma 3 > MPMiss
 
 ## Download
 
-[다운로드](https://drive.google.com/drive/folders/19dyJAXBxydDjZ-RyBhqpHbv3Num4uvqF?usp=sharing)
+[Download](https://drive.google.com/drive/folders/19dyJAXBxydDjZ-RyBhqpHbv3Num4uvqF?usp=sharing)
