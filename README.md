@@ -19,7 +19,3 @@ Place the .pbo file (do not extract it) in the following folder
 This PC > C: Drive > Users > (your username) > AppData > Local > Arma 3 > MPMissionsCache
 
 ⚠️ Do not unzip or open the .pbo file — keep it as it is.
-
-## Download
-
-[Download](https://drive.google.com/drive/folders/19dyJAXBxydDjZ-RyBhqpHbv3Num4uvqF?usp=sharing)
